@@ -1,0 +1,16 @@
+bin/
+dist/
+build
+*.pyc
+*.ini
+.project
+__pycache__
+.DS_Store
+
+omit/
+
+test.py
+
+chrome-data/
+
+*egg*
