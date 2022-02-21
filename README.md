@@ -1,5 +1,5 @@
 # python-fb-scrapper
-### Python Facebook Scrapper based on functions of library [selenium-browser-random-agent](https://github.com/lshoobridge471/selenium-browser-random-agent)
+### Python Facebook Scrapper based on functions of library [selenium-browser-random-agent](https://github.com/lshoobridge471/python-selenium-wrapper)
 
 Scrapper developed in Python.
 
